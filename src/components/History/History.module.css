@@ -1,0 +1,61 @@
+.title{
+    margin-bottom: 12px;
+    font-size: 21px;
+    color: #696868;
+    text-align: left;
+    font-weight: 500;
+}
+
+.history_block{
+    margin-top: 50px;
+    width: 50%;
+    box-sizing: border-box;
+   
+}
+
+.from_title{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.to_title{
+    font-size: 22px;
+}
+
+.money_title{
+    font-size: 18px;
+    color:#0a8d10;
+    font-weight: 500;
+}
+
+.redmoney{
+    font-size: 18px;
+    
+    font-weight: 500;
+    color:#8d0a0a;
+}
+
+.from{
+    display: flex;
+    justify-content: space-between;
+}
+
+.history_inner{
+    padding: 25px;
+    background:rgb(228, 228, 228);; 
+    width: 500px;
+    height: 100px;
+}
+.history_bottom{
+    display: flex;
+    justify-content: end;
+    
+}
+
+.delete{
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    background: #b5b5b5;
+    border-radius: 10px;
+}
